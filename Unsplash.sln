@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9DFA4F37-3AC2-436B-9E4F-DD7144DF6385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crew.Unsplash", "Crew.Unsplash\Crew.Unsplash.csproj", "{EFBC6F96-C7E0-4768-BD9A-F70E03F42767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBC6F96-C7E0-4768-BD9A-F70E03F42767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBC6F96-C7E0-4768-BD9A-F70E03F42767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBC6F96-C7E0-4768-BD9A-F70E03F42767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBC6F96-C7E0-4768-BD9A-F70E03F42767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFBC6F96-C7E0-4768-BD9A-F70E03F42767} = {9DFA4F37-3AC2-436B-9E4F-DD7144DF6385}
+	EndGlobalSection
+EndGlobal
